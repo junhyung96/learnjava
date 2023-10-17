@@ -13,5 +13,13 @@ public class Main {
 		}; 
 		System.out.println(Arrays.deepToString(iArr2));
 		
+		int x = 10;
+		x = ++x - x++;
+		System.out.println(x);
+		
+		int y = 9;
+		y %= 2;
+		System.out.println(y);
+				
 	}
 }
