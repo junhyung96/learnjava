@@ -8,13 +8,12 @@ import java.util.StringTokenizer;
 
 public class boj1000 {
 	public static void main(String[] args) throws IOException {
-//		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-//		StringTokenizer st = new StringTokenizer(br.readLine());
+
 		Scanner sc = new Scanner(System.in);
 		
 		String str = sc.nextLine();
 		
-		System.out.println(str);
+		System.out.println(str+"??!");
 
 	}
 }
