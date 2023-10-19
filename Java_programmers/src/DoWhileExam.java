@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DoWhile {
+public class DoWhileExam {
 
 	public static void main(String[] args) {
 		int value = 0;

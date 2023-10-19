@@ -1,5 +1,5 @@
 
-public class Constant {
+public class ConstantExam {
 
 	public static void main(String[] args) {
 		int i;

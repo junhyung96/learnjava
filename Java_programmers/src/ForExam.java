@@ -1,5 +1,5 @@
 
-public class For {
+public class ForExam {
 
 	public static void main(String[] args) {
 		int total = 0;

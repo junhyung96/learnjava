@@ -1,5 +1,5 @@
 
-public class If {
+public class IfExam {
 
 	public static void main(String[] args) {
 		int x = 50;
