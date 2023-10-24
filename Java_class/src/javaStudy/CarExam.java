@@ -1,3 +1,4 @@
+package javaStudy;
 
 public class CarExam {
 
